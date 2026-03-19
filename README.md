@@ -76,6 +76,10 @@ plt.tight_layout()
 plt.show()
 ```
 ## Output
+<img width="322" height="177" alt="image" src="https://github.com/user-attachments/assets/3e9845b9-c43f-4c00-8ca8-a86a64f76995" />
+<img width="383" height="242" alt="image" src="https://github.com/user-attachments/assets/9bafa75e-4d9f-4f2b-aa36-2be725e872a5" />
+<img width="352" height="247" alt="image" src="https://github.com/user-attachments/assets/5225976a-8c25-4e24-b634-269cc11cdcd5" />
+<img width="377" height="236" alt="image" src="https://github.com/user-attachments/assets/2511790f-bfd9-48d0-8f8a-b7c1dd357ff0" />
 
 
 
